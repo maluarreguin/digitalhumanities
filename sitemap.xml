@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maluarreguin.github.io/digitalhumanities/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/</loc>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/argument.html</loc>
+<lastmod>2023-03-13T19:37:09-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/dh.html</loc>
+<lastmod>2023-03-13T19:33:29-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/home.html</loc>
+<lastmod>2023-03-13T19:42:51-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/map.html</loc>
+<lastmod>2023-03-13T19:37:01-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/post-two.html</loc>
+<lastmod>2023-03-13T19:35:13-07:00</lastmod>
+</url>
+<url>
+<loc>https://maluarreguin.github.io/digitalhumanities/website-yay.html</loc>
+<lastmod>2023-03-13T19:35:45-07:00</lastmod>
+</url>
+</urlset>
